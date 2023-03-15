@@ -13,8 +13,9 @@ class StayActiveView:
         Utils.remove_watermark()
 
         # page title
-        st.write("# StayActive")
+        st.write("# Eve")
+        st.write('Stay active')
 
         # 
-        st.write("## How are you feeling today?")
+        st.write("### How are you feeling today?")
         feeling_meter = st.slider("Physical state", 0, 10, 5)
