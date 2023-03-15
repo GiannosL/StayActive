@@ -1,4 +1,3 @@
-
 from pages.views.view_1_stayactive import StayActiveView
 
 

@@ -7,7 +7,7 @@ class StayActiveView:
     @staticmethod
     def run() -> None:
         # multiple pages with wide view
-        st.set_page_config(page_title="StayActive", layout="wide")
+        st.set_page_config(page_title="Eve", layout="wide")
 
         # remove watermark
         Utils.remove_watermark()
