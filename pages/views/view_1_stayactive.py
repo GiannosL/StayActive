@@ -14,7 +14,8 @@ class StayActiveView:
 
         # page title
         st.write("# Eve")
-        st.write('Stay active')
+        st.write('## Stay active')
+        st.write('---')
 
         # 
         st.write("### How are you feeling today?")
