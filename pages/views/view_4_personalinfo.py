@@ -2,6 +2,7 @@ import streamlit as st
 
 from pages.utilities.my_utils import Utils
 
+
 class PersonalInfoView:
     @staticmethod
     def run() -> None:
